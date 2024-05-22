@@ -25,7 +25,7 @@ Netflix Movies and TV Shows Dashboard link is [here](https://public.tableau.com/
 
 **•	Packed Bubble Chart:** Analyse the distribution of movies and TV shows by type.
 
-## **Key Insights:**
+## **Key Insights**
 
 •	The number of movies on Netflix was approximately twice the number of TV series.
 

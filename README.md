@@ -29,8 +29,12 @@ Netflix Movies and TV Shows Dashboard link is [here](https://public.tableau.com/
 ## **Key Insights:**
 
 •	The number of movies on Netflix was approximately twice the number of TV series.
+
 •	The country where Netflix Movies and TV Programs were broadcast the most was the USA, followed by India in second place.
+
 •	Dramas were the most popular genre on Netflix.
+
 •	There was an increase in the number of content on Netflix until the end of 2019 and a decrease after this date.
+
 •	The most titles are in TV-MA rating, followed by TV-14 rating.
 

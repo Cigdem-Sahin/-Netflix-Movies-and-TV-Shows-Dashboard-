@@ -2,8 +2,7 @@
  
 ## **Introduction**
 Netflix offers a premium video streaming media service with approximately 270 million paid on-demand memberships in more than 190 countries. 
-“Netflix Movies and TV Shows Dashboard” provides various analyzes of the media pioneer's viewer preferences
-and analysis of various aspects of the content catalogue.
+“Netflix Movies & TV Shows Dashboard” dives deep into this ever-expanding universe of entertainment, providing detailed information that can guide content strategies and audience engagement.
 
 ## **Dataset**
 This project used the Netflix Movies and TV Shows dataset available on Kaggle. It contains information about various movies and TV shows available on Netflix, including type, title, director, cast, country, release year, rating, and more.

@@ -10,12 +10,13 @@ This project used the Netflix Movies and TV Shows dataset available on Kaggle. I
 
 You can access the data set from [here](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download).
 
-##**Dashboard**
+## **Dashboard**
 Netflix Movies and TV Shows Dashboard link is [here](https://public.tableau.com/app/profile/cigdem.sahin/viz/Netflix_17129697361510/Netflix).
+
 <img width="1425" alt="image" src="https://github.com/Cigdem-Sahin/-Netflix-Movies-and-TV-Shows-Dashboard-/assets/166864144/0979c97d-e6d1-4c44-9da1-630c0ffa5f7a">
 
  
-##**Visualization Tools**
+## **Visualization Tools**
 
 **•	Bar Charts:** Determine the ratings of Netflix content and identify the top genres in the Netflix catalogue.
 
@@ -25,7 +26,7 @@ Netflix Movies and TV Shows Dashboard link is [here](https://public.tableau.com/
 
 **•	Packed Bubble Chart:** Analyse the distribution of movies and TV shows by type.
 
-**Key Insights:**
+## **Key Insights:**
 
 •	The number of movies on Netflix was approximately twice the number of TV series.
 •	The country where Netflix Movies and TV Programs were broadcast the most was the USA, followed by India in second place.

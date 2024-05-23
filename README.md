@@ -19,9 +19,9 @@ Netflix Movies and TV Shows Dashboard link is [here](https://public.tableau.com/
 
 **•	Bar Charts:** 
 
-    **• Horizontal Bar Chart:** Identify the top genres in the Netflix catalogue.
+    • Horizontal Bar Chart: Identify the top genres in the Netflix catalogue.
     
-    **• Vertical Bar Chart:** Determine the ratings of Netflix content 
+    • Vertical Bar Chart: Determine the ratings of Netflix content 
     
 **•	Map:** Visualise the distribution of Netflix content across different countries.
 
